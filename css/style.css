@@ -59,7 +59,17 @@ a {
 }
 
 .card {
+    width: 25.5%;
+    margin-bottom: 30px;
+    background-color: rgb(34, 97, 94);
+    margin-top: 20px;
+    padding: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    color: white;
+}
 
-    width: 33%;
-    background-color: rgb(108, 108, 163);
+.card img {
+    width: 450px;
+    height: 400px;
 }
