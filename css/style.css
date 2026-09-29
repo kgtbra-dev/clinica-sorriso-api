@@ -124,3 +124,7 @@ ul {
     justify-content: space-between;
     gap: 25px;
 }
+
+li {
+    list-style-type: none;
+}
