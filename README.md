@@ -1,15 +1,16 @@
 Este é um projeto que visa o desenvolvimento de um sistema que ajude o gerenciamento da clinica odontologica do Dr. Roberto.
 
 
-<img width="812" height="342" alt="clinica-sorriso-api drawio" src="https://github.com/user-attachments/assets/073d2caf-63df-44ea-a2c6-195233131e3c" />
+<img width="722" height="272" alt="sorriso drawio" src="https://github.com/user-attachments/assets/ac92ccb1-cee7-4e9f-9cd1-d481365c6c83" />
+
 
 
 ## Relacionamento 
 
 >CLIENTE : 
-> pode pedir por um ou muitos serviços (1:N)
+> pode pedir por um ou muitas consultas (1:N)
 ---
->SERVICO :
-> pode ser realizado por um ou muitos profissionais da clinica (1:N)
+>CONSULTA :
+> pode possuir um ou muitos procedimentos  (1:N)
 ---
 
