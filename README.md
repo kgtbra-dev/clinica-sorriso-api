@@ -1,6 +1,6 @@
 Este é um projeto que visa o desenvolvimento de um sistema que ajude o gerenciamento da clinica odontologica do Dr. Roberto.
 
-<img width="742" height="292" alt="sorri drawio" src="https://github.com/user-attachments/assets/aa3fac07-c916-4021-9638-b6e7622bcb70" />
+<img width="742" height="292" alt="s drawio" src="https://github.com/user-attachments/assets/5a9f479c-0e37-422d-860a-778b1081a26d" />
 
 ## Relacionamento 
 
